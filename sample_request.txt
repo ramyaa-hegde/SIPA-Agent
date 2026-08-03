@@ -1,0 +1,7 @@
+Analyze my FlyRank Search Intelligence Engine project and generate:
+
+1. A technical project summary
+2. Three resume bullet points
+3. A portfolio description
+4. A LinkedIn-ready summary
+5. Five interview questions I should prepare for
