@@ -10,7 +10,7 @@ The agent was designed and built during the **FlyRank AI Fluency track** as the 
 
 ## Who It Is For
 
-SIPA is built for **me (Ramya Hegde)** as I transition from **Senior Operations Analyst** to **AI/ML Engineer and Data Scientist**.
+SIPA is built for me (Ramya Hegde) as I transition from Senior Operations Analyst to AI/ML Engineer.
 
 It is intended to be used after completing any technical project, including:
 
